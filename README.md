@@ -55,3 +55,5 @@ Project layout generated from the CBIO7501 project template
 (<https://github.com/khan-lab/cbio7501-f26/tree/main/templates/cookiecutter-repro-project>).
 
 Practice project from the Reproducible and Open Science lessons.
+
+Practice project from the Reproducible and Open Science lessons.
