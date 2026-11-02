@@ -57,3 +57,7 @@ Project layout generated from the CBIO7501 project template
 Practice project from the Reproducible and Open Science lessons.
 
 Practice project from the Reproducible and Open Science lessons.
+
+## Get the data
+
+    pixi exec python scripts/download_data.py
