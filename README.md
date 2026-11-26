@@ -1,7 +1,5 @@
 # LTEE variant calling
 
-[![DOI](https://sandbox.zenodo.org/badge/github/1437194624.svg)](https://handle.test.datacite.org/10.5072/zenodo.648907)
-
 Variant calling on three *E. coli* clones from population Ara-3 of Richard
 Lenski's Long-Term Evolution Experiment (LTEE), frozen at 5,000, 15,000 and
 50,000 generations. Question: how many mutations accumulated, and is the
@@ -11,7 +9,9 @@ Built as the example project of the Reproducible and Open Science lessons.
 The analysis steps follow the Data Carpentry lesson *Wrangling
 Genomics* (CC BY 4.0).
 
-Author: Aziz Khan (ORCID [0000-0002-6459-6224](https://orcid.org/0000-0002-6459-6224))
+**Author**: Aziz Khan (ORCID [0000-0002-6459-6224](https://orcid.org/0000-0002-6459-6224))
+
+**DOI**: 10.5072/zenodo.648908
 
 ## Publication
 
