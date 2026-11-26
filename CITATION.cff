@@ -4,10 +4,10 @@ title: "LTEE variant calling"
 abstract: "Variant calling on three E. coli clones from the Long-Term Evolution Experiment, with a sensitivity analysis of the variant filter."
 type: software
 authors:
-  - given-names: "Ada"
-    family-names: "Lovelace"
-    email: "ada@example.org"
-    orcid: "https://orcid.org/0000-0002-1825-0097"
+  - given-names: "Aziz"
+    family-names: "Khan"
+    email: "aziz.khan@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0000-0002-6459-6224"
 repository-code: "https://github.com/ada-lovelace/ltee-project"
 license: MIT
 version: 0.1.0
